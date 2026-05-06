@@ -1,8 +1,14 @@
-name = "v20251104"
+name = 'follownewfei'
+account_id = "4d94abcbdd17736f3e38939b8b54c98a"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
+workers_dev = false
 
-#[[kv_namespaces]]
-#binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+[[kv_namespaces]]
+binding = "KV"
+id = "da18e2f01d4e4694a666d6457d0efb08"
+
+# This is a test comment for auto-deployment verification
+[placement]
+region = "gcp:us-east1"
