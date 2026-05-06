@@ -1,5 +1,4 @@
 name = 'follownewfei'
-account_id = "4d94abcbdd17736f3e38939b8b54c98a"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
