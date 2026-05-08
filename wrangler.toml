@@ -10,4 +10,4 @@ id = "da18e2f01d4e4694a666d6457d0efb08"
 
 # This is a test comment for auto-deployment verification
 [placement]
-region = "gcp:us-central1"
+region = "gcp:us-west1"
