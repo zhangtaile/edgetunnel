@@ -6,7 +6,7 @@ workers_dev = false
 
 [[kv_namespaces]]
 binding = "KV"
-id = "da18e2f01d4e4694a666d6457d0efb08"
+id = "a1c661c7ae994e31868559b5d4ae6961"
 
 # This is a test comment for auto-deployment verification
 
