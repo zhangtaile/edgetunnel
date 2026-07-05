@@ -10,8 +10,8 @@ id = "a1c661c7ae994e31868559b5d4ae6961"
 
 # This is a test comment for auto-deployment verification
 
-[placement]
-region = "gcp:asia-southeast2"
+# [placement]
+# region = "gcp:asia-southeast2"
 
 [observability]
 enabled = false
